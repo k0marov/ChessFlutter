@@ -9,6 +9,7 @@ A chess game written in Flutter integrated with the Stockfish AI
 - Saving unfinished games on device 
 - Resuming saved games
 
-### GIF Demo: 
+### Video Demo: 
 
-<video src='https://skomarov.com/static/storage/chess_demo.mp4' width=180/>
+https://github.com/k0marov/ChessFlutter/assets/95040709/0acef11b-2629-45e8-9d52-614c56ee01f2
+
