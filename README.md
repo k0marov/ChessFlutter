@@ -10,4 +10,4 @@ A chess game written in Flutter integrated with the Stockfish AI
 - Resuming saved games
 
 ### GIF Demo: 
-![chess_demo.gif](docs%2Fchess_demo.gif)
+![chess_demo.gif](https://skomarov.com/static/storage/chess_demo.gif)
