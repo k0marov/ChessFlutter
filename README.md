@@ -1,5 +1,7 @@
 # ChessFlutter 
 
+(2022 project)
+
 A chess game written in Flutter integrated with the Stockfish AI 
 
 ### Features: 
